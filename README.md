@@ -18,6 +18,8 @@ This repository contains the following:
 
 7. Source Code of Tic-Tac-Toe game with Python
 
+8. Excel sheet of team members for project
+
 Some useful links:
 
     https://github.com/StevieG47/Object-Detection-Classification
